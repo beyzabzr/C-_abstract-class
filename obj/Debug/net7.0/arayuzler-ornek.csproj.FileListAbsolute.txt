@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\bin\Debug\net7.0\arayuzler-ornek.exe
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\bin\Debug\net7.0\arayuzler-ornek.deps.json
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\bin\Debug\net7.0\arayuzler-ornek.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\bin\Debug\net7.0\arayuzler-ornek.dll
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\bin\Debug\net7.0\arayuzler-ornek.pdb
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\arayuzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\arayuzler-ornek.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\arayuzler-ornek.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\arayuzler-ornek.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\arayuzler-ornek.dll
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\refint\arayuzler-ornek.dll
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\arayuzler-ornek.pdb
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\arayuzler-ornek.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\arayuzler-ornek\obj\Debug\net7.0\ref\arayuzler-ornek.dll
